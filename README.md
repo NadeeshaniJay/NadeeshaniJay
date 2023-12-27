@@ -1,5 +1,5 @@
 - 👋🤩 Hi there, I’m @NadeeshaniJay
-- 🏤 2nd year CE undergraduate,at the University of Ruhuna
+- 🏤 3rd year Computer Engineering undergraduate,at University of Ruhuna
 - 👩‍💻 I’m interested in coding
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on other developers & designers
