@@ -13,16 +13,30 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-NadeeshaniJay" alt="Profile Views">
   </p>
 
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=NadeeshaniJay&theme=radical" alt="GitHub Streak">
+    </a>
+  </p>
+  
+
+  <p align="center">
+    <a href="https://github.com/IT21373848/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=NadeeshaniJay&theme=radical" alt="GitHub Stats">
+    </a>
+    </a>
+  </p>
+
+
+
+  
+
 ![](https://github-readme-stats.vercel.app/api?username=NadeeshaniJay&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NadeeshaniJay&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadeeshaniJay&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
  
-   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NadeeshaniJay&theme=onedark" alt="iit21373848" /></a>
-  
-  </p>
-<!---
-NadeeshaniJay/NadeeshaniJay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NadeeshaniJay&theme=onedark" alt="iit21373848" /></a>
+ </p>
+
