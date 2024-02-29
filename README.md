@@ -39,4 +39,6 @@
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NadeeshaniJay&theme=onedark" alt="iit21373848" /></a>
  </p>
 
-If you have any further questions or need assistance, feel free to ask! You can reach me at <a href="https://www.linkedin.com/in/nadeeshanijayarathne">LinkedIn</a>.
+ <p align="center">
+    If you have any further questions or need assistance, feel free to ask! You can reach me at <a href="https://www.linkedin.com/in/nadeeshanijayarathne">LinkedIn</a>.
+ </p>
