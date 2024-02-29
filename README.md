@@ -15,14 +15,14 @@
 
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=NadeeshaniJay&theme=radical" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=NadeeshaniJay&theme=jolly" alt="GitHub Streak">
     </a>
   </p>
   
 
   <p align="center">
     <a href="https://github.com/NadeeshaniJay/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=NadeeshaniJay&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=NadeeshaniJay&theme=omni" alt="GitHub Stats">
     </a>
     </a>
   </p>
