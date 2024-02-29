@@ -21,18 +21,21 @@
   
 
   <p align="center">
-    <a href="https://github.com/IT21373848/github-readme-stats">
+    <a href="https://github.com/NadeeshaniJay/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=NadeeshaniJay&theme=radical" alt="GitHub Stats">
     </a>
     </a>
   </p>
 
 
+  <p align="center">
+    <a href="https://github.com/NadeeshaniJay/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeeshaniJay&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Languages">
+    </a>
+    </a>
+  </p>
 
-  
 
-![](https://github-readme-stats.vercel.app/api?username=NadeeshaniJay&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NadeeshaniJay&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadeeshaniJay&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
  
