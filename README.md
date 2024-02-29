@@ -12,11 +12,11 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=your-github-NadeeshaniJay" alt="Profile Views">
   </p>
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=NadeeshaniJay&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NadeeshaniJay&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadeeshaniJay&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
- </p>
+
  
    <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NadeeshaniJay&theme=onedark" alt="iit21373848" /></a>
