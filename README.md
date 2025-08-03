@@ -1,6 +1,6 @@
 <div align="center">
  <h3>Hi there!👋🤩 I’m Nadeeshani Jayarathne</h3> 
-3rd year Computer Engineering undergraduate,at University of Ruhuna 🏤
+4th year Computer Engineering undergraduate,at University of Ruhuna 🏤
 </div>
 <hr/>
 
