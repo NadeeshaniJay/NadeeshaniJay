@@ -12,14 +12,6 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=your-github-NadeeshaniJay" alt="Profile Views">
   </p>
-  
-  <p align="center">
-    <a href="https://github.com/NadeeshaniJay/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=NadeeshaniJay&theme=algolia" alt="GitHub Stats">
-    </a>
-    </a>
-  </p>
-
 
   <p align="center">
     <a href="https://github.com/NadeeshaniJay/github-readme-stats">
